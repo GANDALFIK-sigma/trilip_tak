@@ -1,0 +1,31 @@
+body {
+  background-color: rgba(0, 0, 0, 0.842);
+  box-sizing: border-box 0;
+  font-family: Helvetica;
+  font-size: 20px;
+  color: rgba(0, 255, 98);
+}
+table,
+td,
+th {
+  padding: 1px;
+  border-bottom: 5px solid #ddd;
+  border: 2px solid;
+  box-shadow: 1px 1px 9px 0px rgb(0, 255, 98);
+  color: rgb(0, 255, 98);
+}
+
+* {
+  text-shadow: 1px 1px 12px rgb(0, 255, 98);
+}
+li {
+  padding-bottom: 10px;
+}
+a {
+  color: rgb(12, 255, 133);
+}
+img {
+  padding: 2px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
